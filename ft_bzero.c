@@ -6,7 +6,13 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:38:29 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 16:38:30 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/15 16:04:44 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include <unistd.h>
+
+void    ft_bzero(void *s, size_t n)
+{
+    
+}

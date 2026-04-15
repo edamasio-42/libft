@@ -6,7 +6,15 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:36:38 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 16:36:39 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/14 18:42:04 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+int ft_tolower(int c)
+{
+    if (c >= 'A' && c <= 'Z')
+    {
+        c += 32;
+    }
+    return(c);
+}

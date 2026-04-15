@@ -6,7 +6,13 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:37:24 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 16:37:25 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/15 16:06:09 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include <unistd.h>
+
+void    *ft_memset(void *s, int c, size_t n)
+{
+    
+}

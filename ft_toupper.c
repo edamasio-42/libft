@@ -6,7 +6,16 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:36:34 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 16:36:35 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/15 16:00:38 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+int ft_toupper(int c)
+{
+    if (c >= 'a' && c <= 'z')
+    {
+        c -= 32;
+    }
+    return(c);
+    
+}
