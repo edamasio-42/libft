@@ -6,11 +6,11 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:38:16 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 17:21:51 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:14:29 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int ft_isdigit(int c)
+int ft_isdigit(char c)
 {
     if (c >= '0' && c <= '9')
     {

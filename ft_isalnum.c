@@ -6,11 +6,11 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:38:24 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 18:37:21 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:14:03 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int ft_isalnum(int c)
+int ft_isalnum(char c)
 {
     if ((c >= '0' && c <= '9') || (c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
     {

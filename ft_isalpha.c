@@ -6,11 +6,11 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:38:21 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 16:46:04 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:14:10 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int ft_isalpha(int c)
+int ft_isalpha(char c)
 {
     if((c >= 65 && c <= 90) || (c >= 97 && c <= 122))
     {

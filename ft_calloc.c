@@ -6,7 +6,13 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:38:26 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 16:38:27 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:12:00 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include <unistd.h>
+
+void *ft_calloc(size_t nbr, size_t size)
+{
+    
+}

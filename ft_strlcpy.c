@@ -6,7 +6,13 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:36:58 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 16:36:59 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:40:38 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
+
+size_t ft_strlcpy(char *dst, const char *src, size_t len)
+{
+    
+}

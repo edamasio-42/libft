@@ -6,13 +6,13 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:37:22 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/15 15:44:56 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:22:52 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
 
-void    ft_putchar(char c, int fd)
+void    ft_putchar_fd(char c, int fd)
 {
     write(fd, &c, 1);
 }

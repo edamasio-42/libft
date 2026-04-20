@@ -6,7 +6,11 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:38:11 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 16:38:12 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:16:07 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+char *ft_itoa(int nbr, char *str, int radix)
+{
+    
+}

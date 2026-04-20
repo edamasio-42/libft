@@ -6,7 +6,13 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:36:43 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 16:36:44 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:47:40 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
+
+char *ft_strtrim(const char *s1, const char *set)
+{
+    
+}

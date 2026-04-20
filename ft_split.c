@@ -6,7 +6,11 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:37:13 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 16:37:14 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:26:36 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+char **ft_split(char *str, char *charset)
+{
+    
+}

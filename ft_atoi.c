@@ -6,7 +6,11 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:38:31 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 16:38:32 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:10:20 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+int ft_atoi(const char *str)
+{
+    
+}

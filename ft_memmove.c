@@ -6,7 +6,13 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:37:27 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 16:37:28 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:21:54 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
+
+void *ft_memmove(void *dest, const void *src, size_t len)
+{
+    
+}

@@ -6,11 +6,11 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:38:13 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/15 15:31:18 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:14:41 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int ft_isprint(int c)
+int ft_isprint(char c)
 {
     if (c >= 32 && c <= 126)
     {

@@ -6,7 +6,13 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:37:31 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 16:37:32 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:18:33 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
+
+int ft_memcmp(const void *str1, const void *str2, size_t n)
+{
+    
+}

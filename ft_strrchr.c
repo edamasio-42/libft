@@ -6,7 +6,13 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:36:47 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 16:36:48 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:46:19 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
+
+char *ft_strrchr(const char *str, int c)
+{
+    
+}

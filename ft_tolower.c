@@ -6,11 +6,11 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:36:38 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 18:42:04 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:49:59 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int ft_tolower(int c)
+int ft_tolower(char c)
 {
     if (c >= 'A' && c <= 'Z')
     {

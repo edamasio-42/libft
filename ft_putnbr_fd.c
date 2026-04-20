@@ -6,9 +6,13 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:37:17 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/15 15:49:01 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:24:21 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
+#include "libft.h"
 
+void    ft_putnbr_fd(int nbr, int fd)
+{
+    
+}

@@ -6,7 +6,11 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:37:05 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 16:37:06 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:30:49 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+void    ft_striteri(char *s, void (*f)(unsigned int, char*))
+{
+    
+}

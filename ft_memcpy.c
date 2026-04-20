@@ -6,7 +6,13 @@
 /*   By: edamasio <edamasio@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/14 16:37:29 by edamasio          #+#    #+#             */
-/*   Updated: 2026/04/14 16:37:30 by edamasio         ###   ########.fr       */
+/*   Updated: 2026/04/16 12:20:12 by edamasio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
+
+void *ft_memcpy(void *dest, const void  *src, size_t n)
+{
+    
+}
